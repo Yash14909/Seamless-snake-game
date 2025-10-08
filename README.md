@@ -1,4 +1,4 @@
-# 🐍 Snake Game by Yashvardhan 🎮
+# 🐍 Feed the snake 🎮
 
 A classic Snake Game built with **Python** and **Pygame**! Eat the food 🍏, grow longer 🐍, and avoid hitting the walls or yourself 💥. Try to beat your high score!
 
