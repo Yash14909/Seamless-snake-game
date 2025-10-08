@@ -35,12 +35,6 @@ A classic Snake Game built with **Python** and **Pygame**! Eat the food 🍏, gr
 
 ---
 
-## 📸 Screenshot
-
-> _(Add your gameplay screenshot here for maximum wow-factor 😄)_
-
----
-
 ## 🧠 Built With
 
 - Python 🐍
