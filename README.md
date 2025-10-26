@@ -44,4 +44,4 @@ A classic Snake Game built with **Python** and **Pygame**! Eat the food 🍏, gr
 
 ## 📜 License
 
-Feel free to use or modify this project. Attribution appreciated! 🙌
+Feel free to use or modify this project.. Attribution appreciated! 🙌
